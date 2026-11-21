@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot 2026-11-21 083535" src="https://github.com/user-attachments/assets/3d90a608-3f5b-4c95-987c-bd11c4a4dab8" /><img width="1920" height="1080" alt="Screenshot 2026-11-21 083535" src="https://github.com/user-attachments/assets/bf176a54-9b05-4406-926a-479c88240a98" />
 # EC1801-DLC-EXP1
 ### EXPERIMENT 1 
 ### MINIMIZATION AND IMPLEMENTATION OF BOOLEAN FUNCTION
@@ -84,6 +85,7 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
+<img width="1920" height="1080" alt="Screenshot 2026-11-21 083535" src="https://github.com/user-attachments/assets/006a46df-7019-4334-930e-3b21b2d56b6e" />
 
 
 
